@@ -1,0 +1,9 @@
+{
+	"name": "world-cup-df",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7b188b6-070f-4f41-ad08-5eaf055bc3ed",
+		"tenantId": "69920382-de17-4d32-b801-677507cc19a5"
+	}
+}
